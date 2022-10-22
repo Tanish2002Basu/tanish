@@ -1,0 +1,41 @@
+body {
+  background-image: url(https://wallpaperaccess.com/full/983286.jpg);
+  background-size: cover;
+}
+
+table {
+  width: 575px;
+  height: 800px;
+  margin: 0 auto;
+  background: url(https://i.pinimg.com/736x/38/9b/34/389b34f088e618ba0173717045cc4ff5.jpg);
+  background-size: cover;
+  color: #000000;
+  padding: 100px;
+  box-shadow: 0px 5px 10px 0px rgb(0, 0, 0);
+}
+td{
+  padding-left: 100px;
+  padding-right: 100px;
+  align-items: center;
+}
+.fw-normal{
+  padding-left: 90px;
+}
+.mb-4{
+  padding-left: 135px;
+}
+
+.mt-5{
+  padding-left: 135px;
+  color: #000;
+}
+.btn-primary{
+  background-color: azure;
+}
+.ta{
+  color: rgba(0, 140, 255, 0.829);
+  text-decoration: none;
+}
+.to{
+  padding-left: 120px;
+}
